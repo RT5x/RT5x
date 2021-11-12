@@ -1,6 +1,5 @@
 - Hi, I’m @RT5x
-- I’m currently learning ...
-- I’m looking to collaborate on ...
+
 
 
 <!---
