@@ -1,5 +1,5 @@
 - Hi, I’m @RT5x
-
+- Hobbies: Reading, biking, video games
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RT5x&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
