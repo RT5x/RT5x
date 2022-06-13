@@ -1,4 +1,6 @@
 - Hi, I’m @RT5x
+- Student
+- Eagle Scout
 - Hobbies: Reading, biking, video games
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RT5x&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
