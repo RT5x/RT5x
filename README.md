@@ -1,5 +1,5 @@
 - Hi, I’m @RT5x
-- Engineering Student 📕
+- University student studying Engineering 📕
 - Certified Python noob 💪
 - Eagle Scout 🦅
 - Hobbies: Gaming, biking, maths 🕗
