@@ -1,8 +1,9 @@
 - Hi, I’m @RT5x
-- Student
-- Certified python noob
-- Eagle Scout
-- Hobbies: Gaming, biking, maths
+- Student 📕
+- Certified python noob 💪
+- Eagle Scout 🦅
+- Hobbies: Gaming, biking, maths 🕗
+- Learning: Python & C++
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RT5x&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
