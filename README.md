@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @RT5x
 
-- 📕 University student studying Engineering 
+- 📕 Engineering student
 - 💪 Certified Python noob 
 - 🦅 Eagle Scout 
-- 🕗 Hobbies: Gaming, biking, maths 
-- 💻 Learning: Python & C++
+- 🕗 Hobbies: Gaming, biking, drone hobbyist 
+- 💬 Add me on Discord
+
+What I'm Working On:
+  - Arduino microcontrollers
+  - Learning more about Python and C environment
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RT5x&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
