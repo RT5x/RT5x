@@ -1,6 +1,6 @@
 - Hi, I’m @RT5x
 - Engineering Student 📕
-- Certified python noob 💪
+- Certified Python noob 💪
 - Eagle Scout 🦅
 - Hobbies: Gaming, biking, maths 🕗
 - Learning: Python & C++
