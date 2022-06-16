@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @RT5x
 
-- 📕 Engineering student
-- 💪 Certified Python noob 
-- 🦅 Eagle Scout 
-- 🕗 Hobbies: Gaming, biking, drone hobbyist 
-- 💬 Add me on Discord!
-
 What I'm Working On:
   - Arduino microcontrollers
   - Learning more about Python and C environment
