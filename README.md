@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RT5x
 
 What I'm Working On:
-  - Arduino microcontrollers
+  - Arduino microcontrollers and circuits
   - Learning more about Python and C environment
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RT5x&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
