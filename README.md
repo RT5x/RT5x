@@ -4,7 +4,7 @@ What I'm Working On:
   - Arduino microcontrollers and circuits
   - Learning more about Python and C environment
 
-Let's chat on Discord: duck34#9566
+Discord: duck34#9566
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RT5x&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
